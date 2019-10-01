@@ -53,5 +53,4 @@ cloudinary
 multer
 Google Maps APIs
 
-Deployment
-Heroku
+[Deployment on Heroku](https://young-taiga-22812.herokuapp.com)
