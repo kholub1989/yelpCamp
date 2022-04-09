@@ -17,7 +17,7 @@
     "express": "^4.17.1",
     "express-session": "^1.16.1",
     "method-override": "^3.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "mongoose": "^5.5.12",
     "node-geocoder": "^3.23.0",
     "nodemon": "^1.19.1",
