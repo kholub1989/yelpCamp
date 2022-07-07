@@ -19,7 +19,7 @@
     "express-session": "^1.16.1",
     "locus": "^2.0.1",
     "method-override": "^3.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongoose": "^5.5.12",
     "node-geocoder": "^3.23.0",
     "nodemailer": "^6.3.0",
